@@ -1,11 +1,11 @@
-import './App.css';
-import Search from './Search.js'
+import "./App.css";
+import Search from "./Search.js";
 
 function App() {
   return (
-    <div className ="weather-app">
+    <div className="weather-app">
       <Search />
-   </div>
+    </div>
   );
 }
 
